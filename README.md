@@ -1,2 +1,2 @@
-# react-wishlist
+# react-app
 Created with CodeSandbox
